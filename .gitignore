@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+*tgz
+ud120-projects/maildir/
+ud120-projects/.idea/
+ud120-projects/final_project/emails_by_address/
